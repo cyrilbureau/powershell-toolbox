@@ -8,3 +8,6 @@ Desktop.ini
 # Temporary files
 *.tmp
 *.temp
+
+# Local test files
+/tests/
