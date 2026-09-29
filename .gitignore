@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE / editor settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
