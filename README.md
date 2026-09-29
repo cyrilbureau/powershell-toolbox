@@ -4,13 +4,15 @@ A collection of useful, ready-to-use PowerShell scripts and snippets.
 
 ## About
 
-This repository is my personal PowerShell toolbox : a collection of small, reusable scripts and snippets designed to solve specific problems or automate common tasks.
+This repository is my personal PowerShell toolbox: a collection of small, reusable scripts and snippets designed to solve specific problems or automate common tasks.
 
 Each script is self-contained and documented directly in its source file, including its purpose, requirements, and usage when applicable.
 
 ## Contents
 
 Scripts will be listed here as they are added to the toolbox.
+
+- [`Convert-WordToPdf.ps1`](Convert-WordToPdf.ps1) - Converts `.doc` and `.docx` files to PDF using Microsoft Word, with optional recursive processing and overwriting.
 
 ## Disclaimer
 
