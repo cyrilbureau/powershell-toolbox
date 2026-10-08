@@ -14,6 +14,16 @@ Scripts will be listed here as they are added to the toolbox.
 
 - [`Convert-WordToPdf.ps1`](Convert-WordToPdf.ps1) - Converts `.doc` and `.docx` files to PDF using Microsoft Word, with optional recursive processing and overwriting.
 
+## Versioning
+
+This repository follows [Semantic Versioning](https://semver.org/).
+
+Each script has its own version number, documented in its source file.
+
+The toolbox also has a global version, updated periodically to group multiple changes into a single release.
+
+All notable changes are documented in the [Changelog](CHANGELOG.md), following the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) convention.
+
 ## Disclaimer
 
 The scripts and snippets in this repository are provided "as is", without warranty of any kind.

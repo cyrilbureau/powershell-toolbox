@@ -45,6 +45,7 @@ Converts the documents and overwrites existing PDF files.
 Processes the entire directory tree and overwrites existing PDF files.
 
 .NOTES
+Version: 1.0.0
 Requires Microsoft Word on Windows.
 #>
 
